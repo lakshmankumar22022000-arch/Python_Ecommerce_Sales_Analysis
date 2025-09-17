@@ -75,7 +75,7 @@ df = pd.read_csv("sales_data_sample.csv", encoding="latin1")
 - ![Seaborn (Monthly Sales Trend)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Seaborn%20(Line%20Plot)-Monthly%20Sales%20Trend.png)
    - SALES BY REGION:
 - ![Matplotlib (Sales by Region)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%20(Bar%20Plot)-Sales%20by%20Region(Territory).png)
-- ![Seaborn (Sales by Region)]()
+- ![Seaborn (Sales by Region)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Seabborn%20(Bar%20Plot)-Sales%20by%20Region(Territory).png)
 
 
 
