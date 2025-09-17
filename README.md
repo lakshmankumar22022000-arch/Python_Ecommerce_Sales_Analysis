@@ -2,20 +2,20 @@
 ## About the Project
 
 This project demonstrates **Sales Data Analysis** using Python.
-It includes **data cleaning, analysis, and visualization** using `pandas`, `NumPy`, `matplotlib`, and `seaborn`.
+It includes **data cleaning, analysis, and visualization** using Pandas, NumPy, Matplotlib, and Seaborn.
 
 ---
 
 ## Dataset
 
-* Dataset file: `sales_data_sample.csv`
+* Dataset file: sales_data_sample.csv
 * Contains sales transactions including:
 
   * Order Date
   * Product Line
   * Territory
   * Sales
-* Encoding: `latin1`
+* Encoding: latin1
 
 ---
 
