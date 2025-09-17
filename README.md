@@ -63,7 +63,8 @@ df = pd.read_csv("sales_data_sample.csv", encoding="latin1")
 
 ## Visualizations
 
-https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%2C%20Seaborn%20Visualization.pdf
+- For a full downloadable version of the Matplotlib and Seaborn, click here:
+- [Download PDF](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%2C%20Seaborn%20Visualization.pdf)
 
 
 
