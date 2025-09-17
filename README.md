@@ -70,7 +70,7 @@ df = pd.read_csv("sales_data_sample.csv", encoding="latin1")
 - ![Matplotlib (Total Sales by Product Line)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%20(Bar%20Plot)-Total%20Sales%20by%20Product%20Line.png)
 - ![Seaborn (Total Sales by Product Line)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Seaborn%20(Bar%20Plot)-Sales%20by%20Product%20Line.png)
 - ![Matplot (Monthly Sales Trend)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%20(Line%20Plot)-Monthly%20Sales%20Trend.png)
-- ![Seaborn (Monthly Sales Trend)]()
+- ![Seaborn (Monthly Sales Trend)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Seaborn%20(Line%20Plot)-Monthly%20Sales%20Trend.png)
 
 
 
