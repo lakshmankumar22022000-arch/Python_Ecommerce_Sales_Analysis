@@ -69,6 +69,8 @@ df = pd.read_csv("sales_data_sample.csv", encoding="latin1")
 - - For a Image version of the Visualization, click here:
 - ![Matplotlib (Total Sales by Product Line)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Matplotlib%20(Bar%20Plot)-Total%20Sales%20by%20Product%20Line.png)
 - ![Seaborn (Total Sales by Product Line)](https://github.com/lakshmankumar22022000-arch/Python_Ecommerce_Sales_Analysis/blob/main/Seaborn%20(Bar%20Plot)-Sales%20by%20Product%20Line.png)
+- ![Matplot (Monthly Sales Trend)]()
+- ![Seaborn (Monthly Sales Trend)]()
 
 
 
