@@ -63,7 +63,6 @@ df = pd.read_csv("sales_data_sample.csv", encoding="latin1")
 
 ## 📊 Visualizations
 
-### Total Sales by Product Line
-[[Matplotlib](<img width="800" height="500" alt="Matplotlib (Bar Plot)-Total Sales by Product Line" src="https://github.com/user-attachments/assets/f7154fdc-e2f5-48b4-95d1-51923bb3002a" />)
-[[Seaborn](<img width="800" height="500" alt="Seaborn (Bar Plot)-Sales by Product Line" src="https://github.com/user-attachments/assets/6c42b9b6-c36e-47f0-9c0e-8a0058714f0f" />)
+### Total Sales by Product Line(Screenshots)
+
 
